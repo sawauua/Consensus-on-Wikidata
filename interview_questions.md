@@ -1,5 +1,5 @@
-1. Background questions:
-1.1. Can you briefly describe your involvement with Wikidata? 
++Background questions:
+-+Can you briefly describe your involvement with Wikidata? 
 1.2 How long have you been an editor? How much time do you dedicate to it weekly?
 1.3 Which tasks do/did you usually perform?
 1.4 What is your “rank” as an editor? What possibilities and obligations come with it?
